@@ -1,5 +1,10 @@
 # custom
 target
+apiConfig.js
+.firebase/
+.firebaserc
+database.rules.json
+firebase.json
 
 # Compiled class file
 *.class
